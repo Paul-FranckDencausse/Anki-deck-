@@ -1,5 +1,10 @@
-bonjour : olá  
-merci : obrigado  
-chat : gato  
-chien : cão  
+bonjour : olá
+merci : obrigado
+chat : gato
+chien : cão
 maison : casa
+voiture : carro
+livre : livro
+arbre : árvore
+fleur : flor
+école : escola
