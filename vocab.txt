@@ -1,0 +1,5 @@
+bonjour : olá  
+merci : obrigado  
+chat : gato  
+chien : cão  
+maison : casa
